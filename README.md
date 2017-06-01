@@ -1,2 +1,3 @@
-# html-tags
-A JSON file listing all HTML tags, grouped by head, body and indicating if they are self-closing or not
+# HTML Tags
+
+A JSON or YAML file listing all HTML tags, indicating if they belong in the head, body and if they are self-closing or not
