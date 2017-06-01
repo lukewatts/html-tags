@@ -1,1 +1,672 @@
-
+a:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: true
+abbr:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+address:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+area:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: true
+article:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+aside:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+audio:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+b:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+bdi:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+bdo:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+blockquote:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+body:
+    allow_in:
+        body: false
+        head: false
+    allow_multiple: false
+    self_closing: false
+br:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: true
+button:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+caption:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+cite:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+code:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+col:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: true
+colgroup:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+data:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+datalist:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+dd:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+del:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+details:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+dfn:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+dialog:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+dir:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+div:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+dl:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+dt:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+em:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+embed:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: true
+fieldset:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+figcaption:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+figure:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+footer:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+form:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+frame:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: true
+frameset:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+h1:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+h2:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+h3:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+h4:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+h5:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+h6:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+head:
+    allow_in:
+        body: false
+        head: false
+    allow_multiple: false
+    self_closing: false
+header:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+hr:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: true
+html:
+    allow_in:
+        body: false
+        head: false
+    allow_multiple: false
+    self_closing: false
+i:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+iframe:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+img:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: true
+input:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: true
+ins:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+kbd:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+keygen:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: true
+label:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+legend:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+li:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+link:
+    allow_in:
+        body: false
+        head: true
+    allow_multiple: true
+    self_closing: true
+main:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: false
+    self_closing: false
+map:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+mark:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+menu:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+menuitem:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+meta:
+    allow_in:
+        body: false
+        head: true
+    allow_multiple: true
+    self_closing: true
+meter:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+nav:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+noscript:
+    allow_in:
+        body: true
+        head: true
+    allow_multiple: true
+    self_closing: false
+object:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+ol:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+optgroup:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+option:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+output:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+p:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+param:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: true
+picture:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+pre:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+progress:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+q:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+rp:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+rt:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+ruby:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+s:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+samp:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+script:
+    allow_in:
+        body: true
+        head: true
+    allow_multiple: true
+    self_closing: false
+section:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+select:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+small:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+source:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: true
+span:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+strong:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+style:
+    allow_in:
+        body: true
+        head: true
+    allow_multiple: true
+    self_closing: false
+sub:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+summary:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+sup:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+table:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+tbody:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+td:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+textarea:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+tfoot:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+th:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+thead:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+time:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+title:
+    allow_in:
+        body: false
+        head: true
+    allow_multiple: false
+    self_closing: false
+tr:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+track:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: true
+u:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+ul:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+var:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+video:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
+wbr:
+    allow_in:
+        body: true
+        head: false
+    allow_multiple: true
+    self_closing: false
